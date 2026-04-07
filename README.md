@@ -1,11 +1,11 @@
-# Olá, eu sou o Lauro Pardinho! 👋
+# Boas, eu sou o Lauro Pardinho! 👋
 
 ### 👨‍💻 QA Engineer Júnior | Em Transição de Carreira
 
-Aos 37 anos, decidi que era hora de unir minha bagagem de vida à minha paixão pela tecnologia. Moro em São Paulo e, recentemente, mergulhei de cabeça no universo de QA Engineer através da Tripleten Brasil, consolidando uma transição de carreira que planejei com muito cuidado.
+Aos 37 anos, decidi que era hora de unir minha bagagem de vida à minha paixão pela tecnologia. Moro em São Paulo e, recentemente, mergulhei de cabeça no universo de QA Engineer através da Tripleten Brasil, Dando o primeiro passo oficialmente na transição de carreira que planejei com muito cuidado.
 
 🌍 O que eu trago na mochila?
-Minha trajetória não começou no código, mas no mundo real. Morei 5 anos na Europa e trabalhei nas áreas administrativa e comercial. Essa vivência internacional me ensinou algo valioso: qualidade é um compromisso.
+Minha trajetória não começou na tecnologia, mas no mundo real. Morei 5 anos na Europa e trabalhei nas áreas administrativa e comercial. Essa vivência internacional me ensinou algo valioso: qualidade é um compromisso.
 De lá, trouxe o rigor analítico e aquela atenção aos detalhes que só quem lidou com processos complexos e públicos diversos possui. Hoje, uso esse olhar apurado para garantir que o software não apenas "funcione", mas entregue uma experiência incrível para quem está do outro lado da tela.
 
 ---
@@ -92,14 +92,14 @@ De lá, trouxe o rigor analítico e aquela atenção aos detalhes que só quem l
 
 
 *   **Linguagens & Automação:** 🐍 `Python` | 🌲 `Cypress` | 🤖 `Selenium` | 💻 `VS Code`
-*   **Testes de API:** 🚀 `Postman` | 📡 `Insomnia`
+*   **Testes de API:** 🚀 `Postman`
 *   **Gestão & Agilidade:** 📋 `Jira` | 📝 `Trello`
 *   **Dados & Versionamento:** 🗄️ `SQL` | 🔀 `Git` | 🐙 `GitHub`
 - **Testes de Software:** Manuais, Funcionais, Regressão, Sanidade e Exploratórios.
 - **API Testing:** Validação de endpoints e contratos com **Postman**.
 - **Automação (Noções):** Desenvolvimento de scripts com **Python**, **Cypress** e **Selenium**.
 - **Banco de Dados:** Consultas e manipulação de dados com **SQL**.
-- **Gestão & Agilidade:** Reporte de bugs no **Jira** e vivência em rituais **Scrum/Kanban**.
+- **Gestão & Agilidade:** Reporte de bugs no **Jira** 
 - **Versionamento:** Controle de código com **Git & GitHub**.
 
 ---
